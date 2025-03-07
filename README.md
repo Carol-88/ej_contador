@@ -14,3 +14,4 @@
 - Paso 10: Añade un archivo README.md a tu proyecto, explicando el funcionamiento de tu aplicación.✅
 
 ### Calificación 9 de 10 - 05/03/2025
+PermaLink Netlify: https://voluble-biscotti-ac4bd0.netlify.app/
